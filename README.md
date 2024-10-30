@@ -53,6 +53,9 @@
 
 
 ## Output:
+![Screenshot 2024-10-30 114318](https://github.com/user-attachments/assets/2cce7ed3-4c8d-4f90-87ef-52fa89a30b75)
+![Screenshot 2024-10-30 114243](https://github.com/user-attachments/assets/f7ea305c-768d-47d4-ab8b-dac7d0a8ce58)
+![Screenshot 2024-10-30 114134](https://github.com/user-attachments/assets/3077d21d-dd45-42c1-b1e1-366e5ccdbcc8)
 
 
 ### Name:
